@@ -1,3 +1,3 @@
-# Estonian Quiz Game
+# Tetris Clone
 # The game's hosted at 
-https://estonian-quiz-game.surge.sh/
+https://another-tetris-clone.surge.sh/
